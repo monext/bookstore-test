@@ -13,6 +13,4 @@ npm run dev
 
 ## Live demo
 
-You can also check out live demo here:
-
-[//]: # (TODO add link to the deployment)
+You can also check out live demo [here](https://bookstore-test.azurewebsites.net/).
